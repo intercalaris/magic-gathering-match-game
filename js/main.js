@@ -178,7 +178,7 @@ function checkPair(card) {
     } else {
         setTimeout(() => {
             changeBack()
-        }, "500")
+        }, "700")
     }
 };
 
